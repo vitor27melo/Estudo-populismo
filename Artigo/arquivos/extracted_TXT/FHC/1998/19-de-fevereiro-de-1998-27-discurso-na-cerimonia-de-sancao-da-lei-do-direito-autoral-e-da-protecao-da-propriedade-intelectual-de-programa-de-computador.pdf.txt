@@ -1,0 +1,165 @@
+ 
+ Presidência da República 
+ Casa Civil 
+Secretaria de Administração Diretoria de Gestão de Pessoas Coordenação – Geral de Documentação e Informação Coordenação de Biblioteca 
+ 
+                       
+ 27Discurso na cerimónia de sanção da Lei do
+Direito Autoral e da Proteção da Propriedade
+Intelectual de Programa de Computador
+PALÁCIO DO PLANALTO, BRASÍLIA, DF, 19 DE FEVEREIRO DE 1998
+Senhor Vice-Presidente da República, Doutor Marco Maciel; Senhor Mi-
+nistro Weffort; Senhor Ministro Vargas; Senhores Ministros de Estado que
+aqui se encontram, das Relações Exteriores, Chefe da Casa Civil; Senhores
+Líderes e Relatores; Senadores Deputados, a maioria dos quais já foi desig-
+nada anteriormente, aqui, que nos dão a honra da presença; Senhores e
+Senhoras Representantes da comunidade científica, da comunidade artís-
+tica; Senhoras e Senhores,
+Eu falarei muito pouco porque creio que o essencial foi dito pelos
+Ministros que me antecederam. Primeiro, se me permitem, eu gosto
+sempre de misturar um pouco as solenidades com coisas um pouco até,
+às vezes, pequenas, pessoais, rnas a mim me dá uma grande alegria,
+hoje, poder firmar aqui uma lei que regulamenta a questão da proprie-
+dade intelectual, no que diz respeito ao software.
+Aí eu queria só me referir a dois pequenos fatos: um, é que eu sou da
+época pié-software. Muito pré-software. Recordava-me, enquanto fir-
+mava esta lei, de que, quando me iniciei fazendo alguns trabalhos de
+pesquisa, na Universidade de São Paulo, isso na década de 50 - e o
+160 PRESIDENTE FERNANDO HENRIQUE CARDOSO
+Vargas já era Professor naquela época - nós tínhamos que fazer alguns
+esforços para a introdução de certas técnicas estatísticas na análise de
+problemas sociais, e era uma enorme dificuldade. Nós, evidentemente,
+tínhamos curso de Estatística, tínhamos curso de Análise Matemática.
+Para mim foi muito difícil - e o professor Weffort era tão ruim quanto
+eu na matéria -, fazia-se um grande esforço para entender alguma coi-
+sa, mas havia um momento em que era preciso fazer uma aplicação
+prática daquilo.
+Na época, havia um livro, nos Estados Unidos, famoso, e outros de
+outros autores, que eram os primeiros sociólogos, os primeiros, não,
+mas eram sociólogos americanos que estavam utilizando técnicas de
+análise matemática um pouquinho mais sofisticadas e de análise esta-
+tística, fazendo escalas e não-sei-quê. E eu lia esses livros, e não enten-
+dia quase nada, tinha muita dificuldade. Pedi apoio aos meus professo-
+res de Estatística, que não tinham a menor noção do assunto, porque
+não havia familiaridade entre os modelos que se estavam criando e as
+práticas de análise. Notadamente na Faculdade de Economia, havia um
+professor, inglês, excelente professor de Estatística, que sabia um pouco
+mais das coisas.
+Bom, então, quando eu fui tentar pôr em prática isso, tínhamos que
+operar os computadores. Não eram computadores. Eram aquela má-
+quina separadora - eu não sei nem o nome - e você tinha que perfurar
+as fichas à mão, depois entrava naquela maquininha e tinha um apare-
+Ihinho, que contava os bolinhos de fichas que caíam e a gente anotava, à
+mão, o resultados dos cruzamentos. E isso, pelo menos na minha época,
+só se fazia na Faculdade de Medicina, porque lá havia um professor
+chamado Saad, que depois foi Presidente da Fapesp e Reitor da Unesp,
+que entendia um pouco das coisas, como a Doutora Elza Berquó, a qual
+depois trabalhou conosco, O computador era o utilizado para paga-
+mento de pessoal. Então, nós tínhamos que ir à parte da administração
+para tentar utilizar uma técnica desse tipo.
+Bem, isso era o Brasil dos anos 50. Nos anos 6o, na Franca, não era
+diferente. Hoje, nlo está aqui uma pessoa que trabalha comigo, o Pro-
+fessor Luciano Martins, mas eu tentei com o Luciano - e até eu sabia
+PALAVRA DO PRESIDENTE • is SEMESTRE • 1998
+um pouquinho mais, porque tinha tido essa experiência lá de São Pau-
+lo, também - fazer um trabalho que nós escrevemos, eu escrevi um, ele
+escreveu outro, utilizar, enfim, um instrumental para análise científica.
+Também na Universidade de Nanterre, era na administração que nós
+íamos para poder utilizar um computador, até que eu descobri, por um
+amigo meu, argentino, que trabalhava com isso no aeroporto de Orly,
+que era o aeroporto que se utilizava, que lá havia uma capacidade um
+pouco melhor de análise. Isso foi ontem.
+Hoje, nós estamos aqui no Brasil regulando software, e o Ministro
+Vargas acaba de dizer que nós estamos vendendo software para robô -
+25 milhões de dólares. Não é muito, mas é alguma coisa. Então, o salto é
+imenso. Quer dizer, no decorrer de uma vida, nós passamos da era da
+absoluta inexistência de qualquer instrumental de análise mais sofisti-
+cada, em matéria de computação, para a regulação da produção intelec-
+tual, nem mais de hardware, mas de software. Quer dizer, isso é uma
+coisa extraordinária.
+É compreensível, por isso mesmo, que nós, brasileiros, tenhamos
+apanhado muito nessa matéria. Muitos de nós, eu inclusive, defende-
+mos a antiga lei de informática como a salvação de tudo, porque nós
+achávamos que tínhamos que recriar a pólvora e achávamos que era
+preciso, então, uma proteção à competição e refazer tudo aqui. Os da-
+dos mostram, como disse o Ministro Vargas, que, com a mudança da
+nossa atitude, houve um aumento da produção.
+Já, como Senador, pude participar, juntamente com o então Sena-
+dor Nelson Wedekin e com o Senador Roberto Campos, de uma ten-
+tativa de modificação dessa matéria. E eu me recordo de que eu era
+líder do MDB e indiquei o Senador Nelson Wedekin para ser o relator.
+O Senador Roberto Campos ficou assustadíssimo, porque tanto eu
+quanto o Wedekin tínhamos uma visão - o Senador Roberto Campos
+acha a mesma coisa hoje — uma visão que não era o que vocês, hoje,
+chamam de neoliberal. E não é até hoje. Então, ele tinha medo de que
+nós não fôssemos capazes de entender o processo necessário de aber-
+tura. Nós fomos capazes, entendemos e começamos a modificar uma
+série de regulamentos.161
+162 PRESIDENTE FERNANDO HENRIQUE CARDOSO
+O Ministro Vargas mencionou o fato de que, quando eu estava no
+Ministério das Relações Exteriores, pude participar, juntamente com
+ele, com o Ministro Eduardo Vieira e outros mais, de uma mudança
+mais recente, no que diz respeito à concepção geral do Brasil sobre
+propriedade intelectual.
+Custou-nos mudar essa concepção, e muitos parlamentares partici-
+param desse enorme esforço de revisão da nossa mentalidade. Aí eu me
+empenhei já mais a fundo, porque já foi na década de 90, eu estava
+muito longe da década de 50, tinha entendido que o mundo havia
+mudado e que nós também precisávamos, enfim, mudar as nossas con-
+cepções, as nossas práticas, a nossa legislação.
+E, hoje, eu estou quase finalizando, ao assinar esta lei sobre o softwa-
+re, o conjunto de medidas necessárias, porque nós temos a lei de paten-
+tes, temos a lei de cultivares, que permite também a mesma coisa no
+que diz respeito à parte agronómica, e falta, ainda, algo na lei da biodi-
+versidade, não exatamente no mesmo âmbito, mas nós precisamos tra-
+balhar nessa matéria. Falta alguma sobre circuito integrado, eu supo-
+nho. Enfim, falta, ainda, alguma regulamentação que permita, realmen-
+te, garantir a criatividade intelectual e assegurar os direitos àqueles que
+produzem, intelectualmente.
+De modo que o percurso foi um pouco vagaroso, talvez, mas está
+sendo feito, no decorrer de algumas décadas, para o Brasil, realmente, se
+colocar em condições de competir de maneira produtiva e criativa.
+É claro que, no que diz respeito, mais especificamente, à lei do Direi-
+to Autoral, isso, na nossa tradição de produção artística, como disse o
+Ministro Vargas, é muito maior, nós já temos uma longa tradição de
+problemas grandes e precisávamos enfrentar as dificuldades todas. O
+Ministro Weffbrt chamou a atenção, porque é essencial. Foi um debate
+extremamente aberto, extremamente democrático, que implica, natu-
+ralmente, conceder aqui, ali, avançar um pouco, não avançar tudo o
+que se deseja, mas compor um conjunto de regulamentos. Eu creio que
+os deputados aqui presentes, notadamente o Aloísio Nunes Ferreira,
+que me escreveu uma carta, pediram para eu não vetar nada, mas mui-
+tos pediram. Isso mostra, exatamente, que o Deputado Aloísio sabe, e
+PALAVRA DO PRESIDENTE • is SEMESTRE • 1998
+mais outros parlamentares, que isso foi uma composição complexa. O
+Governo achou melhor deixar essa composição complexa como está,
+com apenas um ou outro reparo técnico, menor, porque mais tarde, se
+houver algum inconveniente, corrige-se.
+Eu acho que, por conseqiiência, nós podemos dizer que, ao firmar
+estes dois diplomas legais, hoje, nós estamos dando um avanço grande
+quanto ao respeito que nós temos que ter ao criador intelectual, a que se
+garantem os direitos, a liberdade de criatividade, a expansão do espírito.
+Sabe-se que, hoje, cada vez mais os bens culturais são bens económi-
+cos, têm repercussão na área económica. Nós precisamos, também, por
+essa razão, embora ela não seja única e, muitas vezes, nem é a principal,
+garantir condições que permitam investimentos maiores, mas nós não
+podemos deixar que esse investimento liquide o direito e até os interes-
+ses materiais do produtor individual, da pessoa que realmente está pro-
+duzindo, porque essas áreas, seja em ciências e tecnologias, seja na área
+cultural - se bem que, como todo produto humano, seja um produto
+social e, portanto, depende de relações, de instituições, etc. -, são áreas
+nas quais chega um momento em que a imaginação individual é in-
+substituível, que, portanto, tem que ser, também, valorizada devida-
+mente, porque é assim mesmo.
+Quer dizer que são áreas em que vale alguém que descobre, que
+inventa, que imagina, que cria, não é? Daí o exemplo de que a Brigitte
+Bardot, sozinha, vale mais do que a Renault. Eu digo isso sem pedir
+desculpas aos diretores da Renault, porque eu prefiro a Brigitte Bardot
+do que o Renault.
+Mas, eu acho que, realmente, é necessário preservar, também, tudo
+que diz respeito à criatividade. Eu espero que estas leis que nós, hoje,
+estamos assinando, dado que elas foram produtos dessa discussão
+imensa na comunidade científica, cultural e com o Congresso, alcan-
+cem esses objetivos e, certamente, alguma falha que possa ocorrer, jun-
+tos, em cooperação, nós a corrigiremos.
+Muito obrigado aos senhores.163
